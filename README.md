@@ -9,10 +9,10 @@ https://www.kaggle.com/datasets/fedesoriano/traffic-prediction-dataset/data
 The dataset was collected from real-time sensors placed at 4 junctions, capturing vehicle count data. The dataset comprises 48,120 instances.
 
 Dataset Variables:
-$DateTime: The date and time when the vehicle count was recorded.
-$Junction: Identifier for the location where the data was collected.
-$Vehicles: The number of vehicles detected.
-$ID: A unique identifier for each data entry.
+- `DateTime`: The date and time when the vehicle count was recorded.
+- `Junction`: Identifier for the location where the data was collected.
+- `Vehicles`: The number of vehicles detected.
+- `ID`: A unique identifier for each data entry.
 
 
 ## Repository Contents
